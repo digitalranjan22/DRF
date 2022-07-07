@@ -8,6 +8,8 @@ test api :- http://127.0.0.1:8000/stuinfo/
 
 test api :- http://127.0.0.1:8000/stuinfo/1
 
+check through other appliction :- python myapp.py
+
 
     
     
