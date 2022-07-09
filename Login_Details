@@ -4,9 +4,11 @@ Pwd : 1234
 
 
 
-test api :- http://127.0.0.1:8000/stuinfo/
+test api :- http://127.0.0.1:8000/empinfo/
 
-test api :- http://127.0.0.1:8000/stuinfo/1
+test api :- http://127.0.0.1:8000/projectinfo
+
+test api :- http://127.0.0.1:8000/projectinfo/1
 
 check through other appliction :- python myapp.py
 
